@@ -15,7 +15,7 @@ Cart Management: Users can add products to their cart and proceed to the cart pa
 Filter by Category: The application provides the functionality to filter products based on different categories, making it easier for users to find products of interest.
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/webelight-assignment.git
+git clone https://github.com/SAVITA987/E-Commerce-website.git
 <li>Install dependencies:</li>
 <pre><code>cd webelight-assignment
 npm install
