@@ -15,7 +15,7 @@ function Contact() {
               <div className="icon"><FaEnvelope /></div>
               <div className="text">
                 <h3>Email:</h3>
-                <p>savitatekale1234@gmail.com</p>
+                <p>contact@webelight.com.com</p>
               </div>
             </div>
             <div className="contact-info">
